@@ -11,8 +11,8 @@ Team EightAM recreated the classic multidirectional shooter arcade game "Asteroi
 
 ## Screenshots
 
-![Link to screen3](https://github.com/ecs160ss12019/EightAM/blob/master/Asteroid_screen3.png)
+![Link to screen3](https://github.com/TimothyV97/Asteroids/blob/master/Asteroid_screen3.jpg)
 
-![Link to screen2](https://github.com/ecs160ss12019/EightAM/blob/master/Asteroid_screen2.png)
+![Link to screen2](https://github.com/TimothyV97/Asteroids/blob/master/Asteroid_screen2.jpg)
 
-![Link to screen1](https://github.com/ecs160ss12019/EightAM/blob/master/Asteroid_screen1.png)
+![Link to screen1](https://github.com/TimothyV97/Asteroids/blob/master/Asteroid_screen1.jpg)
