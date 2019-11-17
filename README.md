@@ -13,10 +13,11 @@ Team EightAM made a reimagination of the classic multidirectional shooter arcade
 
 ## Description
 
-The game takes advantage of various object-oriented patterns such as: strategy, flyweight and factory. 
-The strategy pattern allows for different behavior for certain objects. For example, when an asteroid spawns, it spawns outside the playable area, and as it enters the playable area, it changes its movement behavoir to wrap around the screen.
-The flyweight pattern allows us to load in assets upon the startup of the game. This greatly improves the performance and fluidity of the game.
-The factory pattern aids in the creation of objects. As there are multiple in-game entities, this pattern eases the integration of different type of in-game objects.
+The game takes advantage of various object-oriented patterns such as: strategy, flyweight and factory.
+
+* The strategy pattern allows for different behavior for certain objects. For example, when an asteroid spawns, it spawns outside the playable area, and as it enters the playable area, it changes its movement behavoir to wrap around the screen.
+* The flyweight pattern allows us to load in assets upon the startup of the game. This greatly improves the performance and fluidity of the game.
+* The factory pattern aids in the creation of objects. As there are multiple in-game entities, this pattern eases the integration of different type of in-game objects.
 
 ## Screenshots
 
