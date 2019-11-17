@@ -21,6 +21,20 @@ The game takes advantage of various object-oriented patterns such as: strategy, 
 * The flyweight pattern allows us to load in assets upon the startup of the game. This greatly improves the performance and fluidity of the game.
 * The factory pattern aids in the creation of objects. As there are multiple in-game entities, this pattern eases the integration of different type of in-game objects.
 
+### Features
+
+New Enemy Types
+
+Several new enemy types were added to the game to give player a challenge. Upon defeat, these enemies will drop power-ups
+
+New Power Ups
+
+These range from offensive to defensive power-ups. Such as lasers, scatter guns, and invincibility.
+
+New Ships
+
+There are new ships added to the game. Each ship has it's own ability. The classic player ship only has access to teleportation. However, there are newer ships with new offensive capabilities.
+
 ## Screenshots
 
 ![Link to screen3](https://github.com/TimothyV97/Asteroids/blob/master/Asteroid_screen3.jpg)
