@@ -13,6 +13,8 @@ Team EightAM made a reimagination of the classic multidirectional shooter arcade
 
 ## Description
 
+### Structure
+
 The game takes advantage of various object-oriented patterns such as: strategy, flyweight and factory.
 
 * The strategy pattern allows for different behavior for certain objects. For example, when an asteroid spawns, it spawns outside the playable area, and as it enters the playable area, it changes its movement behavoir to wrap around the screen.
